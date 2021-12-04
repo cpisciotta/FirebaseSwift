@@ -4,7 +4,7 @@ import PackageDescription
 let package = Package(
     name: "FirebaseSwift",
     dependencies: [
-        .Package(url: "https://github.com/cpisciotta/Just.git", , .branch("master"))
+        .Package(url: "https://github.com/cpisciotta/Just.git", .branch("master"))
     ]
 
 )
